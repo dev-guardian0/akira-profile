@@ -785,7 +785,7 @@ footer {
   resize: none;
 }
 
-#contact-form button {
+#contact-form a {
   display: block;
   width: 100%;
   background: #fff;
@@ -800,7 +800,7 @@ footer {
   transition: 0.5s ease all;
 }
 
-#contact-form button:hover {
+#contact-form a:hover {
   -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.19), 0 6px 6px rgba(0, 0, 0, 0.23);
 }
