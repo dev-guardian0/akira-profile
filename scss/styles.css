@@ -449,6 +449,7 @@ footer {
       -ms-hyphens: auto;
           hyphens: auto;
   text-justify: inter-word;
+  line-height: 1.8;
 }
 
 /*
@@ -529,6 +530,7 @@ footer {
   -webkit-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
+  line-height: 1.8;
 }
 
 .vtimeline-point {
@@ -624,6 +626,7 @@ footer {
   -webkit-hyphens: auto;
       -ms-hyphens: auto;
           hyphens: auto;
+  line-height: 1.8;
 }
 
 /*
@@ -675,6 +678,7 @@ footer {
   color: #6f7880;
   margin: 0 0 15px 0;
   font-size: 0.9em;
+  line-height: 1.8;
 }
 
 .no-image .project-info {
